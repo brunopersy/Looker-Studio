@@ -71,5 +71,5 @@ Sinta-se à vontade para abrir uma **issue** ou entrar em contato diretamente co
 
 ---
 
-**Última atualização**: 25/10/2023  
-**Autor**: [Seu nome]  
+**Última atualização**: 20/03/2025 
+**Autor**: Eu mesmo
